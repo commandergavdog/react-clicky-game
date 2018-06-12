@@ -2,10 +2,10 @@ import React, {Component} from "react";
 import Navbar from "./components/Navbar";
 import Header from "./components/Header";
 import Cards from "./components/Cards";
-import Footer from "./components/Footer";
 import Wrapper from "./components/Wrapper";
 import pokemon from "./pokemon.json";
 import "./App.css";
+
 
 class App extends Component {
     state = {
@@ -60,7 +60,6 @@ class App extends Component {
                         topScore={this.state.topScore}
                     />
                     <Header />
-                    <div className="container">
                     {
                         this.state.pokemon.map(poke =>(
                             <Cards
@@ -70,8 +69,7 @@ class App extends Component {
                             currentScore={this.state.currentScore}
                             />
                         ))
-                    }
-                    </div>
+                    }                    
                 </Wrapper>
             );
         }
