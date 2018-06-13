@@ -2,7 +2,7 @@
   "name": "react-clicky-game",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://commandergavdog.github.io/react-clicky-game/",
+  "homepage": "https://commandergavdog.github.io/Pokemon-Click-Quest/",
   "dependencies": {
     "react": "^16.4.0",
     "react-dom": "^16.4.0",
