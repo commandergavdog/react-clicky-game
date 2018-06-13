@@ -1,4 +1,6 @@
 # Pokemon Click Quest!
+![Pokemon Click Quest!](https://github.com/commandergavdog/react-clicky-game/blob/master/src/components/assets/images/Pokemon%20Click%20Quest%20Screenshot.PNG)
+![Pokemon Cards](https://github.com/commandergavdog/react-clicky-game/blob/master/src/components/assets/images/Pokemon.PNG)
 This is a React application that utilizes React components, state managment, and responds to user events for a fun Pokemon themed memory game with a Boostrap UI.
 
 ## Description
