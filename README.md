@@ -1,5 +1,5 @@
 # Pokemon Click Quest!
-This is a React application which utilizes React components, state managment, and responds to user events for a fun Pokemon themed memory game with a Boostrap UI.
+This is a React application that utilizes React components, state managment, and responds to user events for a fun Pokemon themed memory game with a Boostrap UI.
 
 ## Description
 Pokemon Click Quest is a memory game in which players try to click each image of a Pokemon only once. If an image is clicked more than once, the game is reset. If all the Pokemon are clicked successfully without a repeat, the player wins.
