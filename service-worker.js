@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Pokemon-Click-Quest/precache-manifest.6937151a1c05b63f3baaa0b6970d4c9a.js"
+  "/Pokemon-Click-Quest/precache-manifest.9f04471c8a49295206f9fb928b5935ba.js"
 );
 
 self.addEventListener('message', (event) => {

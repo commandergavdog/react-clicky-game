@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Pokemon-Click-Quest/static/css/main.eec7fead.chunk.css",
-    "main.js": "/Pokemon-Click-Quest/static/js/main.f6d0a1c3.chunk.js",
-    "main.js.map": "/Pokemon-Click-Quest/static/js/main.f6d0a1c3.chunk.js.map",
+    "main.js": "/Pokemon-Click-Quest/static/js/main.b9f8316c.chunk.js",
+    "main.js.map": "/Pokemon-Click-Quest/static/js/main.b9f8316c.chunk.js.map",
     "runtime~main.js": "/Pokemon-Click-Quest/static/js/runtime~main.334e0a52.js",
     "runtime~main.js.map": "/Pokemon-Click-Quest/static/js/runtime~main.334e0a52.js.map",
     "static/js/2.aeb7bba2.chunk.js": "/Pokemon-Click-Quest/static/js/2.aeb7bba2.chunk.js",
     "static/js/2.aeb7bba2.chunk.js.map": "/Pokemon-Click-Quest/static/js/2.aeb7bba2.chunk.js.map",
     "index.html": "/Pokemon-Click-Quest/index.html",
-    "precache-manifest.6937151a1c05b63f3baaa0b6970d4c9a.js": "/Pokemon-Click-Quest/precache-manifest.6937151a1c05b63f3baaa0b6970d4c9a.js",
+    "precache-manifest.9f04471c8a49295206f9fb928b5935ba.js": "/Pokemon-Click-Quest/precache-manifest.9f04471c8a49295206f9fb928b5935ba.js",
     "service-worker.js": "/Pokemon-Click-Quest/service-worker.js",
     "static/css/main.eec7fead.chunk.css.map": "/Pokemon-Click-Quest/static/css/main.eec7fead.chunk.css.map",
     "static/media/App.css": "/Pokemon-Click-Quest/static/media/PokemonGB.831e1f4d.ttf"
