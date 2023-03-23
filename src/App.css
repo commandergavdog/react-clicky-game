@@ -1,5 +1,5 @@
 .wrapper {
-    background-image: url("https://secure.static.tumblr.com/f642475976f0e5ef05f07c45733c9129/ywlzagp/F0vn2z9v6/tumblr_static_000dcnypgt.png");
+    background-image: url("./components/assets/images/background.png");
     background-repeat: no-repeat;
     background-size: 100% 100%;
     height: 100vh;
@@ -53,7 +53,7 @@
   .header {
     background-color: transparent;
     background-repeat: no-repeat;
-    background-image: url("https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/e93d6046037147.5845f07ebcaed.png");
+    background-image: url("./components/assets/images/header-background.png");
     background-size: 100% 100%;
     min-height: 400px;
     /* padding-bottom: 140px; */
