@@ -45,6 +45,6 @@
     },
     {
         "name": "Arceus",
-        "image": "../images/500px-0493Arceus.png"
+        "image": "./images/500px-0493Arceus.png"
     }
 ]
