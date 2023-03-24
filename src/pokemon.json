@@ -1,50 +1,50 @@
 [
     {
         "name": "Pikachu",
-        "image": "/images/500px-0025Pikachu.png"
+        "image": "../images/500px-0025Pikachu.png"
     },
     {
         "name": "Gengar",
-        "image": "/images/500px-0094Gengar.png"
+        "image": "./images/500px-0094Gengar.png"
     },
     {
         "name": "Jirachi",
-        "image": "/images/500px-0385Jirachi.png"
+        "image": "./images/500px-0385Jirachi.png"
     },
     {
         "name": "Jynx",
-        "image": "/images/500px-0124Jynx.png"
+        "image": "./images/500px-0124Jynx.png"
     },
     {
         "name": "Blastoise",
-        "image": "/images/500px-0009Blastoise.png"
+        "image": "./images/500px-0009Blastoise.png"
     },
     {
         "name": "Gyarados",
-        "image": "/images/500px-0130Gyarados.png"
+        "image": "./images/500px-0130Gyarados.png"
     },
     {
         "name": "Magikarp",
-        "image": "/images/500px-0129Magikarp.png"
+        "image": "./images/500px-0129Magikarp.png"
     },
     {
         "name": "Mewtwo ",
-        "image": "/images/500px-0150Mewtwo.png" 
+        "image": "./images/500px-0150Mewtwo.png" 
     },
     {
         "name": "Mew",
-        "image": "/images/500px-0151Mew.png"
+        "image": "./images/500px-0151Mew.png"
     },
     {
         "name": "Venusaur",
-        "image": "/images/500px-0003Venusaur.png"
+        "image": "./images/500px-0003Venusaur.png"
     },
     {
         "name": "Charizard",
-        "image": "/images/500px-0006Charizard.png"
+        "image": "./images/500px-0006Charizard.png"
     },
     {
         "name": "Arceus",
-        "image": "/images/500px-0493Arceus.png"
+        "image": "../images/500px-0493Arceus.png"
     }
 ]
