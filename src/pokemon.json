@@ -1,7 +1,7 @@
 [
     {
         "name": "Pikachu",
-        "image": "../images/500px-0025Pikachu.png"
+        "image": "./images/500px-0025Pikachu.png"
     },
     {
         "name": "Gengar",
