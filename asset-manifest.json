@@ -1,16 +1,9 @@
 {
-  "files": {
-    "main.css": "/Pokemon-Click-Quest/static/css/main.eec7fead.chunk.css",
-    "main.js": "/Pokemon-Click-Quest/static/js/main.b9f8316c.chunk.js",
-    "main.js.map": "/Pokemon-Click-Quest/static/js/main.b9f8316c.chunk.js.map",
-    "runtime~main.js": "/Pokemon-Click-Quest/static/js/runtime~main.334e0a52.js",
-    "runtime~main.js.map": "/Pokemon-Click-Quest/static/js/runtime~main.334e0a52.js.map",
-    "static/js/2.aeb7bba2.chunk.js": "/Pokemon-Click-Quest/static/js/2.aeb7bba2.chunk.js",
-    "static/js/2.aeb7bba2.chunk.js.map": "/Pokemon-Click-Quest/static/js/2.aeb7bba2.chunk.js.map",
-    "index.html": "/Pokemon-Click-Quest/index.html",
-    "precache-manifest.9f04471c8a49295206f9fb928b5935ba.js": "/Pokemon-Click-Quest/precache-manifest.9f04471c8a49295206f9fb928b5935ba.js",
-    "service-worker.js": "/Pokemon-Click-Quest/service-worker.js",
-    "static/css/main.eec7fead.chunk.css.map": "/Pokemon-Click-Quest/static/css/main.eec7fead.chunk.css.map",
-    "static/media/App.css": "/Pokemon-Click-Quest/static/media/PokemonGB.831e1f4d.ttf"
-  }
+  "main.css": "static/css/main.f60ed746.css",
+  "main.css.map": "static/css/main.f60ed746.css.map",
+  "main.js": "static/js/main.1a491a2f.js",
+  "main.js.map": "static/js/main.1a491a2f.js.map",
+  "static\\media\\PokemonGB.ttf": "static/media/PokemonGB.831e1f4d.ttf",
+  "static\\media\\background.png": "static/media/background.f6424759.png",
+  "static\\media\\header-background.png": "static/media/header-background.3b591bf3.png"
 }
