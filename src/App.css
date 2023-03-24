@@ -48,9 +48,9 @@
 @font-face {
     font-family: 'PokemonGB';
     src: local('PokemonGB'), url("./components/assets/fonts/PokemonGB.ttf") format('truetype');
-  }
+}
 
-  .header {
+.header {
     background-color: transparent;
     background-repeat: no-repeat;
     /* background-image: url("./components/assets/images/header-background.png"); */
